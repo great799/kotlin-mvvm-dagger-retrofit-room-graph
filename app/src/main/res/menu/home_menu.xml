@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuHistory"
+        android:title="@string/history"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menuPlay"
+        android:icon="@drawable/ic_baseline_play_arrow"
+        android:title="@string/refresh"
+        app:showAsAction="always" />
+
+</menu>
